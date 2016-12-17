@@ -506,7 +506,7 @@ nav ul li a:visited:hover > span {
 }
 @media (min-width: 900px) {
   .slick-slider {
-    height: 50%;
+    height: 60%;
   }
   .slick-slider h1 {
     font-size: 48px;
